@@ -18,6 +18,7 @@ As I have made my code dynamic from where you can change the parameter and data 
 
 #No need to change anywhere in the code but if you want to change the test data mention in the code challenge then you can change the data in config.properties which is present in configuration package 
 
+# Total time which code will run  : 3:24min
 
 # Steps to run from command line
 
