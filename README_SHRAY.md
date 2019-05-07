@@ -1,6 +1,6 @@
 #Steps for How to build and execute the solution/code
 
-# I am using Selenium+JAVA+MAVEN+TESTNG+Log4j2.properties+ExtentReport
+# I am using Selenium+JAVA+MAVEN+TESTNG+Log4j2.properties+ExtentReport+log4j2
 
 
 # Description About Code/Framework :
