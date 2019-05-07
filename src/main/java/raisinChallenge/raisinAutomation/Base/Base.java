@@ -80,6 +80,6 @@ public class Base
 		WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.visibilityOf(element));
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-//        Thread.sleep(1000);
+
 	}
 }
